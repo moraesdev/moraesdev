@@ -7,9 +7,9 @@
 
 # Sobre mim
 
+Apaixonado por inovação, busco maneiras pelas quais a tecnologia possa ser utilizada como meio de tornar a vida das pessoas mais simples e feliz!
 
-
-
+# Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moraesdev&hide=contribs,stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
