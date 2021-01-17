@@ -1,19 +1,13 @@
 <p align="center">
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Adicione suas estatísticas no GitHub geradas dinamicamente em seus readmes!</p>
+ <h2 align="center">Carlos Moraes</h2>
+ <p align="center">moraesdev</p>
 </p>
 </p>
 
 
-# Características
+# Sobre mim
 
-- [Cartão de estatísticas do GitHub](#cartão-de-estatísticas-do-github)
-- [Pins extras do GitHub](#pins-extras-do-github)
-- [Cartão de principais linguagens de programação](#cartão-de-principais-linguagens-de-programação)
-- [Estatística semanal Wakatime](#estatística-semanal-wakatime)
-- [Temas](#temas)
-- [Personalização](#personalização)
-- [Faça suas próprias implantações](#implante-em-sua-própria-instância-do-vercel)
+
 
 
 
