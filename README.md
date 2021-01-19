@@ -1,13 +1,4 @@
-<p align="center">
- <h2 align="center">Carlos Moraes</h2>
- <p align="center">moraesdev</p>
-</p>
-</p>
 
-
-# Sobre mim
-
-Apaixonado por inovação, busco maneiras pelas quais a tecnologia possa ser utilizada como meio de tornar a vida das pessoas mais simples e feliz!
 
 # Stats
 
