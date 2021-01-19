@@ -1,7 +1,5 @@
 
 
-# Stats
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moraesdev&hide=contribs,stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
