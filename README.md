@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/moraesdev/moraesdev/blob/main/src/assets/img/mgit_.png" alt="cover" title="Carlos Moraes" border="0">
+</p>
+
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moraesdev&hide=contribs,stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
