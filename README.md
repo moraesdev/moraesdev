@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/moraesdev/moraesdev/blob/main/src/assets/img/mgit_.png" alt="cover" title="Carlos Moraes" border="0">
+    <img src="https://github.com/moraesdev/moraesdev/blob/main/src/assets/img/mrsgit_.png" alt="cover" title="Carlos Moraes" border="0">
 </p>
 
 
