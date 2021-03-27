@@ -3,7 +3,7 @@
      <h2 align="center">Olá, Eu sou Carlos... Bem vindo!!</h2>
 
  
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moraesdev&show_icons=true&theme=vue-dark)](https://github.com/moraesdev/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moraesdev&show_icons=true&theme=vue-dark)]
 </p>
 
 
