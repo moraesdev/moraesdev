@@ -17,7 +17,7 @@
 
 
 
-  ![Snake animation](https://github.com/LuisFelippeMedeiros/LuisFelippeMedeiros/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/moraesdev/moraesdev/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 
